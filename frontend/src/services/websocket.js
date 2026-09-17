@@ -1,5 +1,5 @@
 /**
- * WebSocket service for ThreatForecast real-time streaming (/ws/live)
+ *  WebSocket service for ThreatForecast real-time streaming (/ws/live)
  */
 import { wsUrl } from '../api/api';
 
